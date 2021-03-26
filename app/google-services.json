@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "964805981929",
+    "firebase_url": "https://secur-it-5af32-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "secur-it-5af32",
+    "storage_bucket": "secur-it-5af32.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:964805981929:android:6ae3509432a571e7b96278",
+        "android_client_info": {
+          "package_name": "fr.hei.securit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "964805981929-ndhnr91gmeuhb4jbkiqhv4f5eol3gmhp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXRI_KBtGYsLxOwzBqdsqu6EK0gTDuI78"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "964805981929-ndhnr91gmeuhb4jbkiqhv4f5eol3gmhp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
